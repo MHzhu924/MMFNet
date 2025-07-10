@@ -33,5 +33,6 @@ Note: Our main model is under './model/MFFNet_models.py' (PVT-v2-b2 backbone)
 
 # Evaluation Tool
    You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
-                
+# Acknowledgement
+We would like to thank the contributors to the [MCCNet](https://github.com/MathLee/MCCNet).                
                 
